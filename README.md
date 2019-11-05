@@ -18,7 +18,6 @@ Create own custom framework are time consuming. So we prefer readymade Option fr
 * [Unyson](http://unyson.io/)
 * [Redux](https://reduxframework.com/)
 * [Codestar](http://codestarframework.com/)
-* [WPOnion](http://wponion.com/)
 
 #### Customiser Framework
 
